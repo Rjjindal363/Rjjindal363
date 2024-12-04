@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm RITIK JINDAL</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="center" alt="coding" width="400" src="https://github.com/user-attachments/assets/71e7b4e2-9dc5-4795-ba32-cbbe210b2f87">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/768fd87c-72b3-43c1-a4c4-547897e749e1.gif
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjjindal363&label=Profile%20views&color=0e75b6&style=flat" alt="rjjindal363" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjjindal363" alt="rjjindal363" /></a> </p>
